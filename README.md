@@ -17,4 +17,5 @@ Plain HTML + `assets/site.css`. No build step: edit, commit, push, and Pages red
 - `assets/site.css` is shared with `sprout-legal-site`. Change it here, then copy it there.
 - Icons are Phosphor (MIT) SVGs pasted inline. Font is Outfit (SIL Open Font License), self-hosted in `assets/fonts/`.
 - Preview locally: `python3 -m http.server 8000` in this folder, then open http://localhost:8000.
+- Hero screenshots: `assets/shot-shopping.webp` + `assets/shot-inventory.webp` (560 px wide, from phone screenshots). Replace them when the app's look changes.
 - Prices on the home page must match `lib/utils/plus_config.dart` in the app repo.
