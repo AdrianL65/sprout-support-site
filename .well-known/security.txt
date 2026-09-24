@@ -1,0 +1,4 @@
+Contact: mailto:support-sprout@mikrodev.net
+Expires: 2027-09-24T00:00:00.000Z
+Preferred-Languages: en, es
+Canonical: https://sprout-support.mikrodev.net/.well-known/security.txt
